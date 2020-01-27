@@ -1,0 +1,5372 @@
+run:
+
+.:::.....Result.....:::. 
+number for sum 
+  9 7 10 2 8
+ number for multi 
+  4 3 1 5 6
+ BUILD SUCCESSFUL (total time: 0 seconds)
+
+.......................................................................................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+.::number GA  : 1
+.::highest Result: 36 90
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 50400
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 8
+- multi num break= 362880
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 50400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 2
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 7
+- multi num break= 453600
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 1680
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 2016
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 64800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 37800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 22
+- multi num break= 3780
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+.::number GA  : 2
+.::highest Result: 36 90
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 160
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 448
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 226800
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 60
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 80
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 160
+..........................
+- num break= 3
+- sum num break= 11
+- multi num break= 100800
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 50400
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 75600
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 4032
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 64
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 75600
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 10080
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 226800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 38
+- multi num break= 72
+..........................
+- num break= 4
+- sum num break= 20
+- multi num break= 20160
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 64800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 300
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 448
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 8
+- sum num break= 41
+- multi num break= 45
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 64
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 4032
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 15120
+..........................
+.::number GA  : 3
+.::highest Result: 33 300
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 33600
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 24
+- multi num break= 8640
+..........................
+- num break= 7
+- sum num break= 40
+- multi num break= 72
+..........................
+- num break= 8
+- sum num break= 42
+- multi num break= 36
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 40
+- multi num break= 72
+..........................
+- num break= 2
+- sum num break= 15
+- multi num break= 64800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 144
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 43
+- multi num break= 40
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 270
+..........................
+- num break= 5
+- sum num break= 40
+- multi num break= 120
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 25
+- multi num break= 6480
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 17
+- multi num break= 21600
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 4
+- sum num break= 18
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 15120
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 5
+- sum num break= 40
+- multi num break= 120
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 43
+- multi num break= 40
+..........................
+- num break= 7
+- sum num break= 32
+- multi num break= 400
+..........................
+- num break= 6
+- sum num break= 43
+- multi num break= 40
+..........................
+- num break= 7
+- sum num break= 45
+- multi num break= 20
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 5
+- sum num break= 40
+- multi num break= 120
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 7
+- sum num break= 40
+- multi num break= 72
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 40
+- multi num break= 120
+..........................
+- num break= 7
+- sum num break= 40
+- multi num break= 72
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 43
+- multi num break= 40
+..........................
+- num break= 8
+- sum num break= 42
+- multi num break= 30
+..........................
+- num break= 5
+- sum num break= 40
+- multi num break= 120
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 6
+- sum num break= 43
+- multi num break= 40
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 40
+- multi num break= 120
+..........................
+- num break= 4
+- sum num break= 31
+- multi num break= 1080
+..........................
+- num break= 8
+- sum num break= 38
+- multi num break= 72
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 2160
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 6
+- sum num break= 23
+- multi num break= 3780
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 40
+- multi num break= 72
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 31
+- multi num break= 1080
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 24
+- multi num break= 8640
+..........................
+- num break= 3
+- sum num break= 12
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 60
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 22
+- multi num break= 3780
+..........................
+- num break= 4
+- sum num break= 24
+- multi num break= 8640
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 11340
+..........................
+- num break= 8
+- sum num break= 50
+- multi num break= 4
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+.::number GA  : 4
+.::highest Result: 32 400
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 6
+- sum num break= 25
+- multi num break= 2800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 8
+- sum num break= 37
+- multi num break= 80
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 18
+- multi num break= 21600
+..........................
+- num break= 4
+- sum num break= 18
+- multi num break= 21600
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 2800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 26
+- multi num break= 2700
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 360
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 1260
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 2880
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 540
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 270
+..........................
+- num break= 8
+- sum num break= 37
+- multi num break= 80
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 172800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 17
+- multi num break= 21600
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 2
+- sum num break= 11
+- multi num break= 201600
+..........................
+- num break= 5
+- sum num break= 24
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 144
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 5760
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 50400
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 172800
+..........................
+- num break= 2
+- sum num break= 5
+- multi num break= 907200
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 2
+- sum num break= 5
+- multi num break= 907200
+..........................
+- num break= 6
+- sum num break= 28
+- multi num break= 1512
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 172800
+..........................
+- num break= 3
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 3
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 4320
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 16800
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 172800
+..........................
+- num break= 3
+- sum num break= 12
+- multi num break= 129600
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 75600
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 2880
+..........................
+- num break= 8
+- sum num break= 42
+- multi num break= 30
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 16800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 5760
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 2880
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 5760
+..........................
+- num break= 7
+- sum num break= 40
+- multi num break= 40
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 8
+- sum num break= 43
+- multi num break= 27
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 8
+- sum num break= 41
+- multi num break= 40
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 2520
+..........................
+- num break= 8
+- sum num break= 41
+- multi num break= 40
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 540
+..........................
+- num break= 7
+- sum num break= 31
+- multi num break= 450
+..........................
+- num break= 5
+- sum num break= 26
+- multi num break= 2700
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 6
+- sum num break= 26
+- multi num break= 2520
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 15120
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 540
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 270
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+.::number GA  : 5
+.::highest Result: 31 360
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 6
+- sum num break= 28
+- multi num break= 630
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 160
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 8
+- sum num break= 46
+- multi num break= 14
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 336
+..........................
+- num break= 7
+- sum num break= 45
+- multi num break= 14
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 4
+- sum num break= 18
+- multi num break= 21600
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 15120
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 7560
+..........................
+- num break= 8
+- sum num break= 46
+- multi num break= 14
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 3
+- sum num break= 11
+- multi num break= 226800
+..........................
+- num break= 4
+- sum num break= 20
+- multi num break= 9450
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 60
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 15120
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 30
+- multi num break= 1344
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 120960
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 9
+- multi num break= 302400
+..........................
+- num break= 2
+- sum num break= 11
+- multi num break= 362880
+..........................
+- num break= 2
+- sum num break= 16
+- multi num break= 60480
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 7
+- multi num break= 604800
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 18900
+..........................
+- num break= 6
+- sum num break= 42
+- multi num break= 42
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 18900
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 181440
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 8
+- sum num break= 46
+- multi num break= 14
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 3
+- sum num break= 12
+- multi num break= 129600
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 42
+- multi num break= 42
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 2016
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 2
+- sum num break= 16
+- multi num break= 60480
+..........................
+- num break= 5
+- sum num break= 28
+- multi num break= 2160
+..........................
+- num break= 5
+- sum num break= 22
+- multi num break= 3780
+..........................
+- num break= 7
+- sum num break= 45
+- multi num break= 14
+..........................
+- num break= 3
+- sum num break= 12
+- multi num break= 201600
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 1260
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 63
+..........................
+- num break= 8
+- sum num break= 37
+- multi num break= 80
+..........................
+- num break= 6
+- sum num break= 42
+- multi num break= 42
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 336
+..........................
+- num break= 2
+- sum num break= 16
+- multi num break= 60480
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 336
+..........................
+- num break= 6
+- sum num break= 42
+- multi num break= 42
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 28
+- multi num break= 2160
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 3
+- sum num break= 15
+- multi num break= 60480
+..........................
+- num break= 5
+- sum num break= 28
+- multi num break= 2160
+..........................
+- num break= 4
+- sum num break= 30
+- multi num break= 1344
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 4
+- sum num break= 30
+- multi num break= 1344
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 2160
+..........................
+- num break= 4
+- sum num break= 18
+- multi num break= 21600
+..........................
+- num break= 2
+- sum num break= 9
+- multi num break= 453600
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 75600
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 28
+- multi num break= 1512
+..........................
+- num break= 8
+- sum num break= 46
+- multi num break= 14
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 336
+..........................
+- num break= 1
+- sum num break= 4
+- multi num break= 907200
+..........................
+- num break= 6
+- sum num break= 42
+- multi num break= 42
+..........................
+- num break= 7
+- sum num break= 32
+- multi num break= 360
+..........................
+.::number GA  : 6
+.::highest Result: 32 360
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 22680
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 22680
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 403200
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 24
+..........................
+- num break= 5
+- sum num break= 24
+- multi num break= 6480
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 2520
+..........................
+- num break= 2
+- sum num break= 12
+- multi num break= 181440
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 2520
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 12
+- multi num break= 113400
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 18
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 75600
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 37800
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 10080
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 6
+- sum num break= 30
+- multi num break= 1080
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 26
+- multi num break= 1890
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 216
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 60
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 2
+- sum num break= 12
+- multi num break= 181440
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 24
+- multi num break= 4800
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 18
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 75600
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 24192
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 280
+..........................
+- num break= 3
+- sum num break= 11
+- multi num break= 100800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 3
+- sum num break= 15
+- multi num break= 60480
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 56
+..........................
+- num break= 4
+- sum num break= 19
+- multi num break= 11340
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 181440
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 56
+..........................
+- num break= 2
+- sum num break= 12
+- multi num break= 181440
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 1890
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 14400
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 10080
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 13440
+..........................
+- num break= 6
+- sum num break= 28
+- multi num break= 630
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 56
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 24
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 2520
+..........................
+- num break= 8
+- sum num break= 42
+- multi num break= 30
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 3
+- sum num break= 12
+- multi num break= 151200
+..........................
+- num break= 4
+- sum num break= 11
+- multi num break= 120960
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 12
+- multi num break= 181440
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 10080
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 2520
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 280
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 280
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 15120
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 75600
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 7
+- sum num break= 37
+- multi num break= 72
+..........................
+- num break= 5
+- sum num break= 24
+- multi num break= 6480
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 10080
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 15120
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 56
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 280
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 64800
+..........................
+- num break= 6
+- sum num break= 29
+- multi num break= 1512
+..........................
+- num break= 2
+- sum num break= 9
+- multi num break= 453600
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 24
+..........................
+- num break= 5
+- sum num break= 22
+- multi num break= 3780
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 2
+- sum num break= 18
+- multi num break= 45360
+..........................
+- num break= 2
+- sum num break= 12
+- multi num break= 181440
+..........................
+- num break= 6
+- sum num break= 23
+- multi num break= 3780
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 56
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 11340
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 54
+..........................
+.::number GA  : 7
+.::highest Result: 34 280
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 4
+- sum num break= 19
+- multi num break= 11340
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 4
+- sum num break= 20
+- multi num break= 19200
+..........................
+- num break= 4
+- sum num break= 15
+- multi num break= 25200
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 86400
+..........................
+- num break= 6
+- sum num break= 30
+- multi num break= 1080
+..........................
+- num break= 4
+- sum num break= 19
+- multi num break= 11340
+..........................
+- num break= 5
+- sum num break= 26
+- multi num break= 2880
+..........................
+- num break= 8
+- sum num break= 45
+- multi num break= 16
+..........................
+- num break= 8
+- sum num break= 45
+- multi num break= 16
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 86400
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 26
+- multi num break= 2880
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 6
+- sum num break= 30
+- multi num break= 1080
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 3
+- sum num break= 11
+- multi num break= 226800
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 50
+..........................
+- num break= 7
+- sum num break= 29
+- multi num break= 630
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 45
+- multi num break= 16
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 3360
+..........................
+- num break= 5
+- sum num break= 27
+- multi num break= 1680
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 18
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 270
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 3360
+..........................
+- num break= 4
+- sum num break= 22
+- multi num break= 11520
+..........................
+- num break= 3
+- sum num break= 16
+- multi num break= 64800
+..........................
+- num break= 8
+- sum num break= 45
+- multi num break= 16
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 24192
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 160
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 160
+..........................
+- num break= 6
+- sum num break= 32
+- multi num break= 480
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 45360
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 26
+- multi num break= 2880
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 86400
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 43200
+..........................
+- num break= 5
+- sum num break= 26
+- multi num break= 2880
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 6
+- sum num break= 32
+- multi num break= 480
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 86400
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 5
+- sum num break= 26
+- multi num break= 2880
+..........................
+- num break= 6
+- sum num break= 28
+- multi num break= 1440
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 1890
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 11520
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 160
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 160
+..........................
+- num break= 6
+- sum num break= 32
+- multi num break= 480
+..........................
+- num break= 4
+- sum num break= 19
+- multi num break= 21600
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 3
+- sum num break= 10
+- multi num break= 259200
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 6
+- sum num break= 23
+- multi num break= 3780
+..........................
+- num break= 1
+- sum num break= 10
+- multi num break= 362880
+..........................
+- num break= 5
+- sum num break= 29
+- multi num break= 1080
+..........................
+- num break= 6
+- sum num break= 32
+- multi num break= 480
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 160
+..........................
+- num break= 4
+- sum num break= 22
+- multi num break= 11520
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 240
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 75600
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 226800
+..........................
+- num break= 7
+- sum num break= 44
+- multi num break= 16
+..........................
+- num break= 3
+- sum num break= 20
+- multi num break= 22680
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 1
+- sum num break= 4
+- multi num break= 907200
+..........................
+- num break= 2
+- sum num break= 4
+- multi num break= 1209600
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 75600
+..........................
+.::number GA  : 8
+.::highest Result: 35 270
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 403200
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 7
+- sum num break= 42
+- multi num break= 27
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 2160
+..........................
+- num break= 5
+- sum num break= 31
+- multi num break= 756
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 4
+- sum num break= 18
+- multi num break= 21600
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 7
+- sum num break= 42
+- multi num break= 27
+..........................
+- num break= 7
+- sum num break= 34
+- multi num break= 180
+..........................
+- num break= 7
+- sum num break= 42
+- multi num break= 27
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 11340
+..........................
+- num break= 8
+- sum num break= 51
+- multi num break= 3
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 8
+- sum num break= 51
+- multi num break= 3
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 720
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 26880
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 280
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 144
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 4
+- sum num break= 18
+- multi num break= 16800
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 56
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 540
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 6
+- sum num break= 35
+- multi num break= 189
+..........................
+- num break= 3
+- sum num break= 16
+- multi num break= 72576
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 27
+- multi num break= 1120
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 26880
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 26880
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 26880
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 216
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 7
+- sum num break= 42
+- multi num break= 27
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 31
+- multi num break= 672
+..........................
+- num break= 4
+- sum num break= 19
+- multi num break= 10800
+..........................
+- num break= 5
+- sum num break= 18
+- multi num break= 17280
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 4
+- sum num break= 27
+- multi num break= 2688
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 26880
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 6
+- sum num break= 37
+- multi num break= 112
+..........................
+- num break= 2
+- sum num break= 15
+- multi num break= 72576
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 3
+- sum num break= 12
+- multi num break= 201600
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 540
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 56
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 5
+- sum num break= 31
+- multi num break= 672
+..........................
+- num break= 4
+- sum num break= 27
+- multi num break= 2688
+..........................
+- num break= 5
+- sum num break= 31
+- multi num break= 672
+..........................
+- num break= 8
+- sum num break= 42
+- multi num break= 36
+..........................
+- num break= 7
+- sum num break= 42
+- multi num break= 27
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 12
+- multi num break= 181440
+..........................
+- num break= 4
+- sum num break= 19
+- multi num break= 10800
+..........................
+- num break= 6
+- sum num break= 37
+- multi num break= 112
+..........................
+- num break= 4
+- sum num break= 11
+- multi num break= 120960
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 2
+- sum num break= 15
+- multi num break= 72576
+..........................
+- num break= 4
+- sum num break= 29
+- multi num break= 1512
+..........................
+- num break= 8
+- sum num break= 51
+- multi num break= 3
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 22400
+..........................
+- num break= 6
+- sum num break= 38
+- multi num break= 108
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 80640
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 6
+- sum num break= 37
+- multi num break= 112
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 270
+..........................
+- num break= 4
+- sum num break= 29
+- multi num break= 1512
+..........................
+- num break= 3
+- sum num break= 21
+- multi num break= 12096
+..........................
+.::number GA  : 9
+.::highest Result: 33 280
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 7
+- sum num break= 35
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 6
+- sum num break= 32
+- multi num break= 270
+..........................
+- num break= 4
+- sum num break= 20
+- multi num break= 19200
+..........................
+- num break= 3
+- sum num break= 11
+- multi num break= 100800
+..........................
+- num break= 6
+- sum num break= 29
+- multi num break= 900
+..........................
+- num break= 2
+- sum num break= 9
+- multi num break= 259200
+..........................
+- num break= 8
+- sum num break= 48
+- multi num break= 10
+..........................
+- num break= 4
+- sum num break= 28
+- multi num break= 1680
+..........................
+- num break= 8
+- sum num break= 47
+- multi num break= 7
+..........................
+- num break= 7
+- sum num break= 43
+- multi num break= 28
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 90
+..........................
+- num break= 6
+- sum num break= 26
+- multi num break= 1440
+..........................
+- num break= 5
+- sum num break= 22
+- multi num break= 3780
+..........................
+- num break= 2
+- sum num break= 9
+- multi num break= 259200
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 7560
+..........................
+- num break= 8
+- sum num break= 48
+- multi num break= 10
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 7560
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 3600
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 11340
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 90
+..........................
+- num break= 3
+- sum num break= 7
+- multi num break= 453600
+..........................
+- num break= 4
+- sum num break= 14
+- multi num break= 75600
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 29
+- multi num break= 900
+..........................
+- num break= 1
+- sum num break= 2
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 7
+- multi num break= 518400
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 280
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 36
+..........................
+- num break= 4
+- sum num break= 15
+- multi num break= 43200
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 28800
+..........................
+- num break= 7
+- sum num break= 40
+- multi num break= 48
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 280
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 270
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 280
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 90
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 18
+..........................
+- num break= 7
+- sum num break= 43
+- multi num break= 28
+..........................
+- num break= 4
+- sum num break= 15
+- multi num break= 25200
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 100800
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 90720
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 1890
+..........................
+- num break= 5
+- sum num break= 30
+- multi num break= 840
+..........................
+- num break= 3
+- sum num break= 22
+- multi num break= 10080
+..........................
+- num break= 1
+- sum num break= 10
+- multi num break= 362880
+..........................
+- num break= 5
+- sum num break= 15
+- multi num break= 30240
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 90720
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 3600
+..........................
+- num break= 8
+- sum num break= 48
+- multi num break= 10
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 280
+..........................
+- num break= 4
+- sum num break= 19
+- multi num break= 10800
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 360
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 14400
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 36
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 6
+- sum num break= 26
+- multi num break= 2240
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 15120
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 280
+..........................
+- num break= 3
+- sum num break= 10
+- multi num break= 201600
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 3
+- sum num break= 22
+- multi num break= 10080
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 10080
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 10
+..........................
+- num break= 3
+- sum num break= 16
+- multi num break= 64800
+..........................
+- num break= 3
+- sum num break= 10
+- multi num break= 201600
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 28
+- multi num break= 1680
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 3
+- sum num break= 12
+- multi num break= 86400
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 280
+..........................
+- num break= 7
+- sum num break= 43
+- multi num break= 28
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 3600
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 28
+- multi num break= 1890
+..........................
+- num break= 8
+- sum num break= 45
+- multi num break= 9
+..........................
+- num break= 8
+- sum num break= 37
+- multi num break= 80
+..........................
+- num break= 8
+- sum num break= 47
+- multi num break= 7
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 22
+- multi num break= 10080
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 90720
+..........................
+- num break= 2
+- sum num break= 9
+- multi num break= 201600
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 28800
+..........................
+- num break= 5
+- sum num break= 30
+- multi num break= 840
+..........................
+- num break= 7
+- sum num break= 38
+- multi num break= 60
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 3
+- sum num break= 20
+- multi num break= 22680
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 18
+..........................
+- num break= 7
+- sum num break= 39
+- multi num break= 90
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+.::number GA  : 10
+.::highest Result: 31 360
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 3
+- sum num break= 23
+- multi num break= 10080
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 5
+..........................
+- num break= 4
+- sum num break= 25
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 37
+- multi num break= 80
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 7
+- sum num break= 48
+- multi num break= 8
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 17280
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 28
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 84
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 3024
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 100800
+..........................
+- num break= 7
+- sum num break= 37
+- multi num break= 126
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 17280
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 3024
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 5760
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 11340
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 60480
+..........................
+- num break= 5
+- sum num break= 21
+- multi num break= 12096
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 60480
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 13440
+..........................
+- num break= 4
+- sum num break= 17
+- multi num break= 18900
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 3024
+..........................
+- num break= 4
+- sum num break= 15
+- multi num break= 43200
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 5
+- sum num break= 29
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 33
+- multi num break= 336
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 840
+..........................
+- num break= 4
+- sum num break= 20
+- multi num break= 16200
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 2
+- sum num break= 5
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 13440
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 6
+- sum num break= 29
+- multi num break= 560
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 6720
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 3024
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 6720
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 6720
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 216
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 378
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 86400
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 17280
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 60480
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 21600
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 3024
+..........................
+- num break= 2
+- sum num break= 9
+- multi num break= 259200
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 63
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 6
+- multi num break= 725760
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 13440
+..........................
+- num break= 7
+- sum num break= 43
+- multi num break= 30
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 84
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 6
+- sum num break= 25
+- multi num break= 3024
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 5
+- sum num break= 24
+- multi num break= 4320
+..........................
+- num break= 5
+- sum num break= 29
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 2
+- sum num break= 5
+- multi num break= 604800
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 378
+..........................
+- num break= 2
+- sum num break= 6
+- multi num break= 725760
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 840
+..........................
+- num break= 7
+- sum num break= 32
+- multi num break= 360
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 4
+- sum num break= 19
+- multi num break= 10800
+..........................
+- num break= 2
+- sum num break= 5
+- multi num break= 604800
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 270
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 36288
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 378
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 6720
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 100800
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 840
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 7
+- sum num break= 48
+- multi num break= 8
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 17280
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 5760
+..........................
+- num break= 1
+- sum num break= 5
+- multi num break= 725760
+..........................
+- num break= 5
+- sum num break= 27
+- multi num break= 1890
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 63
+..........................
+- num break= 4
+- sum num break= 27
+- multi num break= 3240
+..........................
+- num break= 3
+- sum num break= 15
+- multi num break= 80640
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 28
+..........................
+- num break= 5
+- sum num break= 28
+- multi num break= 2268
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 60480
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 5760
+..........................
+.::number GA  : 11
+.::highest Result: 32 360
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 4
+- sum num break= 25
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 100800
+..........................
+- num break= 7
+- sum num break= 43
+- multi num break= 30
+..........................
+- num break= 6
+- sum num break= 31
+- multi num break= 640
+..........................
+- num break= 3
+- sum num break= 11
+- multi num break= 100800
+..........................
+- num break= 6
+- sum num break= 45
+- multi num break= 24
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 26
+- multi num break= 2160
+..........................
+- num break= 6
+- sum num break= 36
+- multi num break= 320
+..........................
+- num break= 4
+- sum num break= 23
+- multi num break= 13440
+..........................
+- num break= 7
+- sum num break= 29
+- multi num break= 630
+..........................
+- num break= 7
+- sum num break= 28
+- multi num break= 720
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 448
+..........................
+- num break= 3
+- sum num break= 15
+- multi num break= 75600
+..........................
+- num break= 3
+- sum num break= 16
+- multi num break= 72576
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 37800
+..........................
+- num break= 6
+- sum num break= 45
+- multi num break= 24
+..........................
+- num break= 8
+- sum num break= 39
+- multi num break= 63
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 2
+- sum num break= 11
+- multi num break= 362880
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 3
+- sum num break= 20
+- multi num break= 22680
+..........................
+- num break= 2
+- sum num break= 13
+- multi num break= 86400
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 20160
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 4
+- sum num break= 25
+- multi num break= 8064
+..........................
+- num break= 6
+- sum num break= 45
+- multi num break= 24
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 1
+- sum num break= 3
+- multi num break= 1209600
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 75600
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 48
+- multi num break= 8
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 2
+- sum num break= 11
+- multi num break= 201600
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 5
+- sum num break= 25
+- multi num break= 3240
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 64
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 20160
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 4
+- sum num break= 15
+- multi num break= 25200
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 80
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 64
+..........................
+- num break= 7
+- sum num break= 29
+- multi num break= 630
+..........................
+- num break= 6
+- sum num break= 36
+- multi num break= 320
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 134400
+..........................
+- num break= 3
+- sum num break= 15
+- multi num break= 90720
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 4
+- sum num break= 23
+- multi num break= 13440
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 5
+- sum num break= 28
+- multi num break= 2688
+..........................
+- num break= 2
+- sum num break= 14
+- multi num break= 90720
+..........................
+- num break= 7
+- sum num break= 29
+- multi num break= 630
+..........................
+- num break= 4
+- sum num break= 25
+- multi num break= 8064
+..........................
+- num break= 5
+- sum num break= 17
+- multi num break= 20160
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 14400
+..........................
+- num break= 1
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 8
+- sum num break= 43
+- multi num break= 32
+..........................
+- num break= 5
+- sum num break= 30
+- multi num break= 1920
+..........................
+- num break= 3
+- sum num break= 6
+- multi num break= 604800
+..........................
+- num break= 4
+- sum num break= 25
+- multi num break= 5040
+..........................
+- num break= 5
+- sum num break= 30
+- multi num break= 1920
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 17280
+..........................
+- num break= 8
+- sum num break= 36
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 17
+- multi num break= 20160
+..........................
+- num break= 2
+- sum num break= 3
+- multi num break= 1814400
+..........................
+- num break= 7
+- sum num break= 29
+- multi num break= 630
+..........................
+- num break= 7
+- sum num break= 34
+- multi num break= 180
+..........................
+- num break= 4
+- sum num break= 26
+- multi num break= 2160
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 134400
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 224
+..........................
+- num break= 8
+- sum num break= 43
+- multi num break= 32
+..........................
+- num break= 7
+- sum num break= 29
+- multi num break= 630
+..........................
+- num break= 3
+- sum num break= 15
+- multi num break= 43200
+..........................
+- num break= 7
+- sum num break= 29
+- multi num break= 630
+..........................
+- num break= 4
+- sum num break= 25
+- multi num break= 8064
+..........................
+- num break= 3
+- sum num break= 17
+- multi num break= 36288
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 60480
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 64
+..........................
+- num break= 3
+- sum num break= 14
+- multi num break= 100800
+..........................
+- num break= 7
+- sum num break= 41
+- multi num break= 64
+..........................
+- num break= 5
+- sum num break= 30
+- multi num break= 1920
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 3
+- sum num break= 18
+- multi num break= 17280
+..........................
+- num break= 4
+- sum num break= 26
+- multi num break= 2160
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 134400
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 224
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 60480
+..........................
+- num break= 5
+- sum num break= 32
+- multi num break= 648
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 134400
+..........................
+- num break= 4
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 5
+- sum num break= 30
+- multi num break= 1920
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+- num break= 5
+- sum num break= 17
+- multi num break= 20160
+..........................
+- num break= 8
+- sum num break= 49
+- multi num break= 8
+..........................
+.::number GA  : 12
+.::highest Result: 36 320
+
+**-----------*-----------------*-----------------*----------------*----------------**
+- num break= 2
+- sum num break= 16
+- multi num break= 57600
+..........................
+- num break= 3
+- sum num break= 26
+- multi num break= 5760
+..........................
+- num break= 6
+- sum num break= 40
+- multi num break= 90
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 840
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 2
+- multi num break= 1814400
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 6
+- sum num break= 29
+- multi num break= 560
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 840
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 3
+- sum num break= 19
+- multi num break= 25200
+..........................
+- num break= 5
+- sum num break= 20
+- multi num break= 8640
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 448
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 1260
+..........................
+- num break= 4
+- sum num break= 21
+- multi num break= 13440
+..........................
+- num break= 3
+- sum num break= 19
+- multi num break= 25200
+..........................
+- num break= 7
+- sum num break= 34
+- multi num break= 180
+..........................
+- num break= 1
+- sum num break= 2
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 19
+- multi num break= 25200
+..........................
+- num break= 4
+- sum num break= 12
+- multi num break= 90720
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 6
+- sum num break= 21
+- multi num break= 5040
+..........................
+- num break= 4
+- sum num break= 25
+- multi num break= 4536
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 840
+..........................
+- num break= 8
+- sum num break= 38
+- multi num break= 70
+..........................
+- num break= 2
+- sum num break= 11
+- multi num break= 201600
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 224
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 60480
+..........................
+- num break= 8
+- sum num break= 42
+- multi num break= 36
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 2100
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 6
+- sum num break= 32
+- multi num break= 350
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 8
+- sum num break= 44
+- multi num break= 18
+..........................
+- num break= 1
+- sum num break= 2
+- multi num break= 1814400
+..........................
+- num break= 3
+- sum num break= 13
+- multi num break= 60480
+..........................
+- num break= 7
+- sum num break= 37
+- multi num break= 192
+..........................
+- num break= 6
+- sum num break= 39
+- multi num break= 168
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 518400
+..........................
+- num break= 2
+- sum num break= 18
+- multi num break= 45360
+..........................
+- num break= 2
+- sum num break= 8
+- multi num break= 302400
+..........................
+- num break= 2
+- sum num break= 18
+- multi num break= 45360
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 151200
+..........................
+- num break= 4
+- sum num break= 27
+- multi num break= 2100
+..........................
+- num break= 7
+- sum num break= 43
+- multi num break= 42
+..........................
+- num break= 5
+- sum num break= 23
+- multi num break= 8400
+..........................
+- num break= 3
+- sum num break= 27
+- multi num break= 5040
+..........................
+- num break= 3
+- sum num break= 27
+- multi num break= 5040
+..........................
+- num break= 1
+- sum num break= 10
+- multi num break= 362880
+..........................
+- num break= 2
+- sum num break= 11
+- multi num break= 201600
+..........................
+- num break= 4
+- sum num break= 33
+- multi num break= 840
+..........................
+- num break= 3
+- sum num break= 27
+- multi num break= 5040
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 840
+..........................
+- num break= 3
+- sum num break= 19
+- multi num break= 25200
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 224
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 5
+- sum num break= 19
+- multi num break= 14400
+..........................
+- num break= 4
+- sum num break= 22
+- multi num break= 8400
+..........................
+- num break= 7
+- sum num break= 36
+- multi num break= 224
+..........................
+- num break= 4
+- sum num break= 33
+- multi num break= 840
+..........................
+- num break= 7
+- sum num break= 33
+- multi num break= 320
+..........................
+- num break= 5
+- sum num break= 36
+- multi num break= 360
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 6
+- sum num break= 29
+- multi num break= 560
+..........................
+- num break= 1
+- sum num break= 1
+- multi num break= 3628800
+..........................
+- num break= 7
+- sum num break= 32
+- multi num break= 420
+..........................
+- num break= 7
+- sum num break= 38
+- multi num break= 144
+..........................
+- num break= 3
+- sum num break= 19
+- multi num break= 25200
+..........................
+- num break= 6
+- sum num break= 30
+- multi num break= 720
+..........................
+- num break= 8
+- sum num break= 38
+- multi num break= 70
+..........................
+- num break= 8
+- sum num break= 37
+- multi num break= 80
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 2
+- sum num break= 11
+- multi num break= 201600
+..........................
+- num break= 7
+- sum num break= 43
+- multi num break= 42
+..........................
+- num break= 6
+- sum num break= 34
+- multi num break= 448
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 7
+- sum num break= 32
+- multi num break= 420
+..........................
+- num break= 2
+- sum num break= 10
+- multi num break= 226800
+..........................
+- num break= 8
+- sum num break= 38
+- multi num break= 70
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 6
+- sum num break= 30
+- multi num break= 504
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 6
+- sum num break= 39
+- multi num break= 168
+..........................
+- num break= 8
+- sum num break= 43
+- multi num break= 20
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 2
+- sum num break= 18
+- multi num break= 45360
+..........................
+- num break= 6
+- sum num break= 39
+- multi num break= 168
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 840
+..........................
+- num break= 4
+- sum num break= 16
+- multi num break= 20160
+..........................
+- num break= 5
+- sum num break= 34
+- multi num break= 840
+..........................
+- num break= 8
+- sum num break= 40
+- multi num break= 56
+..........................
+- num break= 1
+- sum num break= 9
+- multi num break= 403200
+..........................
+- num break= 3
+- sum num break= 20
+- multi num break= 22680
+..........................
+- num break= 1
+- sum num break= 8
+- multi num break= 453600
+..........................
+- num break= 7
+- sum num break= 35
+- multi num break= 270
+..........................
+- num break= 2
+- sum num break= 18
+- multi num break= 45360
+..........................
+- num break= 8
+- sum num break= 46
+- multi num break= 14
+..........................
+- num break= 6
+- sum num break= 27
+- multi num break= 2100
+..........................
+- num break= 6
+- sum num break= 29
+- multi num break= 560
+..........................
+.::number GA  : 13
+.::highest Result: 36 360
+
+**-----------*-----------------*-----------------*----------------*----------------**
+.:::.....Result.....:::. 
+number for sum 
+  9 7 10 2 8
+ number for multi 
+  4 3 1 5 6
+ BUILD SUCCESSFUL (total time: 0 seconds)
